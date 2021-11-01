@@ -52,7 +52,6 @@ Complétez le tableau des contraintes de la bd InfoSoft
 </tbody>
 </table>
 
-
 ## LDD 1
 
 Écrire et exécuter le script de création du schéma-HÔPITAL en respectant les points
@@ -142,13 +141,13 @@ Exécuter ce nouveau script et insérer les données dans les tables en tenant c
 
 Expliquer et montrer l'utilité de l'option `ON DELETE CASCADE`
 
-> 
+>
 
 ```sql
 
 ````
 
-> 
+>
 
 ```sql
 
